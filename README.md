@@ -1,4 +1,4 @@
-# NC-C-with-Simplified-and-Tight-Analysis: Section 5 Matrix Eigen-Structure Verification (Mathematica)
+# NC-C-with-Simplified-and-Tight-Analysis: Matrix Eigen-Structure Verification (Mathematica)
 
 This repository contains **Mathematica notebooks** used to **reproduce and validate** the symbolic computations in **Section 5** of our paper:
 
